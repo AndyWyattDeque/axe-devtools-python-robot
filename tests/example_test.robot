@@ -7,7 +7,7 @@ Resource          resource.robot
 
 *** Test Cases ***
 Axe Analyze
-    Open Homepage and analyze for a11y issues
-    Open the recipe card on the homepage and check for a11y issues
+    Open the Embel Furniture Store App site and check for a11y issues
+    Open the Shopping Cart and check for a11y issues
     [Teardown]    Close Browser
 
